@@ -2,7 +2,7 @@
 - 👀 I’m interested in an internship opportunity or a junior vacancy
 - 🌱 I’m currently learning front end developer
 - 💞️ I’m looking to collaborate on website creation and code optimization
-- 📫 How to reach by email: alvesivanor.1@gmail.com
+- 📫 How to reach: by email: alvesivanor.1@gmail.com
 or instagram: @ivanor_alves or even by WhatsApp: 33998455430
 
 <!---
