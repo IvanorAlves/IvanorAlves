@@ -1,2 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanorAlves)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dracula)
+Ola! Eu sou Ivanor Alves
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanorAlves&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanorAlves&theme=radical&show_icons=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+![Design sem nome](https://user-images.githubusercontent.com/113808219/235383519-7bd7455b-233b-44aa-ba5b-1af1a9f21833.png)
