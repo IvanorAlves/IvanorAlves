@@ -5,7 +5,7 @@ Ola! Eu sou Ivanor Alves
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanorAlves&theme=radical&show_icons=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ivanoralves98.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ivanoralves.png)
 
 
 
